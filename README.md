@@ -11,7 +11,6 @@ It was adapted from the original version to remove all API calls, instead genera
 - 📏 Enter a **mileage** value to get a mock valuation for that vehicle.
   - The valuation is based on year, model, and mileage bands, with a small random-like jitter to make values more natural.
 - 🎉 Fun confetti effect when showing a valuation.
-- 🏍️ Custom bike favicon.
 
 ## How it works
 
